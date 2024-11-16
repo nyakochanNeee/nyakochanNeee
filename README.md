@@ -3,8 +3,7 @@
 <h3 align="center"> My name is Cutenyako
 <h3 align="center"> Here is my blog www.cutenyako.work </h3>
 <h6 align="center"> am new here and want lering everythings </h6>
-<img align="center" src="https://i.328888.xyz/2023/01/19/HxsxN.jpeg">
-<h6 align="center"> 妈的，忍不了，一拳把下北泽打爆 </h4>
+<img align="center" src="https://cutefox.site/image/1.png">
 <!--
 **nyakochanNeee/nyakochanNeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
